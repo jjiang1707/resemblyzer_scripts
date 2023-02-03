@@ -1,3 +1,5 @@
+Note this is dependent on the Resemblyzer repo: https://github.com/resemble-ai/Resemblyzer
+
 # resemblyzer_scripts
 scripts to create embeddings and run a test to check if audio is AI generated
 
